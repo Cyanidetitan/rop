@@ -1,6 +1,6 @@
 # ***** Telegram TOKEN and parameters Definition *****
-TOKEN = "<YOUR TELEGRAM TOKEN>"
-CHANNEL_NAME = "<YOUR TELEGRAM CHANNEL NAME>"
+TOKEN = "6535153154:AAGuymX2nG6wrkfxVxe6Bqmqef2QMJRN0Cs"
+CHANNEL_NAME = "@amazoncheapdealsop"
 
 # ***** BOT ACTIVITY TIME *****
 MIN_HOUR = 9
